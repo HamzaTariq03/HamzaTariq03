@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @M.HamzaTariq
+- 👋 Hi, I’m M.HamzaTariq
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning SE.
+- 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me hamzatariq2033@gmail.com.
 
