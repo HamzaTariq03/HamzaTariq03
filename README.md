@@ -1,5 +1,5 @@
 <!-- Coding GIF -->
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
 # 👋 Hi, I'm Hamza Tariq  
 🚀 A passionate Flutter developer & tech enthusiast from Pakistan  
@@ -15,7 +15,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:hamzatariq2033@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Gmail_white.png" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
@@ -33,14 +33,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-
 ---
 
-### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaTariq03&show_icons=true&theme=radical" alt="Hamza's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaTariq03&theme=radical" alt="Hamza's GitHub streak" width="48%"/>
-</p>
-
----
 ⭐️ From [HamzaTariq03](https://github.com/HamzaTariq03)
